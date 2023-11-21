@@ -16,9 +16,8 @@ source linked below
 
 //
 
-a42 Kod İle Python'da Keylogger Yapımı;
 
-Kod:
+
 import pynput
 import smtplib
 
